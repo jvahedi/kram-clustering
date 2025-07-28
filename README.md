@@ -1,6 +1,6 @@
 # kram-clustering
 
-```markdown
+
 # Data Processing Package
 
 A versatile toolkit for reducing high-dimensional data, clustering, and text summarization using advanced machine learning models.
@@ -56,6 +56,4 @@ Licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file 
 ## Contact
 
 Feel free to reach out at [Vahedi.john@columbia.edu](mailto:Vahedi.john@columbia.edu) for queries or support.
-```
 
-This README file should be well-suited for your project, providing the necessary information for users to understand and utilize your package effectively. You can fill in and adjust any specific paths or project names as needed.
