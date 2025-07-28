@@ -1,7 +1,4 @@
-# kram-clustering
-
-
-# Data Processing Package
+# kram-clustering: Data Processing Package
 
 A versatile toolkit for reducing high-dimensional data, clustering, and text summarization using advanced machine learning models.
 
