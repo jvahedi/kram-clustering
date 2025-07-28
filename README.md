@@ -1,5 +1,4 @@
 # kram-clustering
-Certainly! Below is a README file formatted in a moderate/informative Markdown style, ready for you to copy and paste. I've incorporated the Apache 2.0 license and your email address.
 
 ```markdown
 # Data Processing Package
