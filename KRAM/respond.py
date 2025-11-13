@@ -9,7 +9,7 @@ import json
 import ssl
 import regex as re
 
-gpt_250 = 'fd141762ad904a91b170781fcb428b04'  # GPT-4 enabled API key
+gpt_250 = 'XXXXXXXXXXXXXXXXXXXXXXX'  # GPT-4 enabled API key
 
 def endUrl(deployment, api, base='https://apigw.rand.org/openai/RAND/inference/deployments/', method='/chat/completions?api-version='):
     """
